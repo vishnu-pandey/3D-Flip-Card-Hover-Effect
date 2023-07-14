@@ -15,7 +15,6 @@ body {
     align-items: center;
     height: 90vh;
     flex-direction: column;
-    /* border: 1px solid red; */
 }
 
 .services {
@@ -104,9 +103,7 @@ body {
     transform: rotateX(180deg);
 }
 
-
 .footer{
-    /* border: 1px solid red; */
     text-align: center;
     font-weight: 400;
     padding: 0 auto;
